@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @agustinux
 - 👀 I’m interested in Code Learning
-- 🌱 I’m currently learning nodejs
+- 🌱 I’m currently learning AWS, Terraform, nodejs
 - 💞️ I’m looking to collaborate on backend development
 - 📫 How to reach me agarcia71@gmail.com
 
